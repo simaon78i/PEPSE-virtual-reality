@@ -1,7 +1,7 @@
 
-# Tree Package
+# PEPSE Project
 
-Welcome to the Tree Package! This package is designed to generate and manage various aspects of tree creation and behavior in a game environment. It utilizes several design patterns to ensure modularity, reusability, and maintainability.
+Welcome to the PEPSE Project! This project packaged based  is designed to generate and manage various aspects of tree creation and behavior in a game environment. It utilizes several design patterns to ensure modularity, reusability, and maintainability.
 
 ## General Description
 
