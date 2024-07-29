@@ -76,9 +76,9 @@ The Packages is a comprehensive solution for creating and managing trees and ano
 
 - The packages includes various sprite assets located in the `src/assets` directory. These assets represent different states and actions of the game objects.
 
-## Installation
+## License
 
-To include the PEPSE Project in your project, copy the `pepse` directory into your project's source directory.
+This project is licensed under the MIT License.
 
 ## Contact
 
