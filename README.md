@@ -5,7 +5,7 @@ Welcome to the Tree Package! This package is designed to generate and manage var
 
 ## General Description
 
-The Tree Package is part of a larger virtual reality project that recreates a Mario-like game world. This immersive environment includes vibrant landscapes, interactive objects, and dynamic elements that mimic the beloved Mario game universe. Players can explore this virtual world, interacting with various components such as trees, fruits, and other environmental objects, enhancing the gaming experience with realistic and engaging features.
+This is a virtual reality project that recreates a Mario-like game world. This immersive environment includes vibrant landscapes, interactive objects, and dynamic elements that mimic the beloved Mario game universe. Players can explore this virtual world, interacting with various components such as trees, fruits, and other environmental objects, enhancing the gaming experience with realistic and engaging features.
 
 ## Description
 
