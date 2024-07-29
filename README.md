@@ -9,12 +9,12 @@ This is a virtual reality project that recreates a Mario-like game world. This i
 
 ## Description
 
-The Tree Package is a comprehensive solution for creating and managing trees in a virtual environment. It includes classes for generating tree components such as trunks, leaves, and fruits, and handles interactions with these components. The package leverages design patterns like Observer and Facade to facilitate interaction and communication between different parts of the system.
+The Packages is a comprehensive solution for creating and managing trees and another objects in a virtual environment. It includes classes for generating tree components such as trunks, leaves, and fruits, and handles interactions with these components. The packages leverages design patterns like Observer and Facade to facilitate interaction and communication between different parts of the system.
 
 ## Classes Overview
 
 ### Flora
-- **Description:** The central class of the package.
+- **Description:** The central class of Tree package.
 - **Methods:** 
   - Receives a start point and an end point and fills the range with trees.
 
@@ -74,16 +74,16 @@ The Tree Package is a comprehensive solution for creating and managing trees in 
 
 ## Assets
 
-- The package includes various sprite assets located in the `src/assets` directory. These assets represent different states and actions of the game objects.
+- The packages includes various sprite assets located in the `src/assets` directory. These assets represent different states and actions of the game objects.
 
 ## Installation
 
-To include the Tree Package in your project, copy the `pepse` directory into your project's source directory.
+To include the PEPSE Project in your project, copy the `pepse` directory into your project's source directory.
 
 ## Contact
 
-For more information or to contribute, please contact [Your Name] at [Your Email].
+For more information or to contribute, please contact Shimon Ifrach at simaon78ifrac@gmail.com.
 
 ---
 
-This package demonstrates advanced object-oriented design and implementation skills, making it a valuable addition to any game development project. Thank you for considering my work!
+This project demonstrates advanced object-oriented design and implementation skills, making it a valuable addition to any game development project. Thank you for considering my work!
