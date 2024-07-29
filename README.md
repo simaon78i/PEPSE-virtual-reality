@@ -80,10 +80,6 @@ The Packages is a comprehensive solution for creating and managing trees and ano
 
 This project is licensed under the MIT License.
 
-## Contact
-
-For more information or to contribute, please contact Shimon Ifrach at https://www.linkedin.com/in/shimon-ifrach-a022b5215/.
-
 ---
 
 This project demonstrates advanced object-oriented design and implementation skills, making it a valuable addition to any game development project. Thank you for considering my work!
